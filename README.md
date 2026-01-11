@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sergiokessler
-- 👀 I’m interested in web3, crypto, ethereum
-- 🌱 I’m currently learning Fe language
+- 👀 I’m interested in web3, data
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at sergio@kessler.com.ar
 
